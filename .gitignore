@@ -1,0 +1,21 @@
+# secrets
+.env
+.env.*
+!.env.example
+
+# build / deps
+node_modules/
+dist/
+.next/
+coverage/
+*.log
+logs/
+
+# OS files
+.DS_Store
+
+# Next.js / Playwright
+*.tsbuildinfo
+test-results/
+playwright-report/
+app/next-env.d.ts

@@ -1,0 +1,9 @@
+node_modules
+coverage
+dist
+.next
+package-lock.json
+*.drawio
+doc/REQUIREMENTS.md
+CLAUDE.md
+data/
